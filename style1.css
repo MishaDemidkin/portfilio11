@@ -1,0 +1,23 @@
+body {
+    font-family: sans-serif;
+}
+
+header {
+    background-color: skyblue;
+    width: 1700 px;
+    height: 100 px;
+}
+
+h1 {
+    text-align: center;
+    
+}
+
+body {
+    font-family: 'Times New Roman', Times, serif
+}
+
+.link-header{
+    font-size: 40 px;
+    padding: 10 px;
+}
